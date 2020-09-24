@@ -1,4 +1,4 @@
-R Scripts for download, cleaning, aggregating, and analyzing Austin, TX Bluetooth Traffic Data.
+R Scripts for downloading, cleaning, aggregating, and analyzing Austin, TX Bluetooth Traffic Data.
 
 Please reference the following paper when citing:
 
